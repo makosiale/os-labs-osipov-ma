@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary>Лабораторная работа #1</summary>
+  <summary>Лабораторная работа #3</summary>
 
   ![1](lab3/lab3_1.png)  
   
